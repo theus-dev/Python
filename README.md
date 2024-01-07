@@ -1,4 +1,6 @@
-Python walkthrough
+Hello there! 
+
+Welcome to my Python section
 
 In this repository, i will be uploading my progress by making projects in Python.
 
